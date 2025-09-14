@@ -1,0 +1,197 @@
+.tokar-box {
+  display: flex;
+  flex-direction: row;
+  font-family: Gilroy;
+}
+
+.wrapper {
+  padding: 20px 374px 145px 374px;
+}
+
+.button {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: flex;
+}
+
+.button-img {
+  border: 2px solid #cb8734;
+  border-radius: 50%;
+  padding: 10px 12px;
+}
+
+.contacts {
+  margin-top: 30px;
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.tokar-text {
+  font-weight: 400;
+  font-size: 30px;
+  margin-top: 40px;
+  margin-bottom: 46px;
+}
+
+.tokar-contacts {
+  font-weight: 300;
+  font-size: 16px;
+}
+
+.tokar-phone {
+  font-weight: 700;
+  font-size: 16px;
+  margin-bottom: 6px;
+}
+
+.tokar-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: fit-content;
+  background-color: #fff;
+  border-top-right-radius: 40px;
+  padding: 32px 44px 40px 40px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.tokar-paragraf {
+  font-weight: 400;
+  font-size: 24px;
+}
+
+.tokar-card-info {
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+}
+
+.tokar-number {
+  display: flex;
+  flex-direction: column;
+}
+
+.tokar-item {
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  margin-top: 9px;
+  margin-bottom: 16px;
+}
+
+a.tokar-call {
+  text-decoration: underline;
+  color: #cb8734;
+  margin-top: 16px;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.tokar-img {
+  display: flex;
+  justify-content: flex-end;
+  margin: auto;
+}
+
+.tokar-img2 {
+  z-index: 0;
+  display: flex;
+  justify-content: flex-end;
+  margin: auto;
+}
+.tokar-card-body {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 130px;
+}
+
+.tokar-card2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: fit-content;
+  background-color: #fff;
+  border-top-right-radius: 40px;
+  padding: 32px 44px 40px 40px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  width: 535px;
+  height: 200px;
+}
+
+.tokar-card4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #fff;
+  border-top-right-radius: 40px;
+  padding: 32px 44px 40px 40px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  width: 535px;
+  height: 200px;
+}
+
+.tokar-contacts4 {
+  font-weight: 300;
+  font-size: 16px;
+  margin-right: 81px;
+}
+
+.tokar-images {
+  margin-top: -70px;
+}
+
+a.tokar-call5 {
+  text-decoration: underline;
+  color: #cb8734;
+  margin-top: 16px;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.address {
+  display: flex;
+  flex-direction: column;
+  margin-top: 75px;
+}
+
+.address-text {
+  font-weight: 400;
+  font-size: 24px;
+  margin-bottom: 16px;
+}
+
+.address-paragraf {
+  font-weight: 700;
+  font-size: 18px;
+  margin-bottom: 23px;
+}
+
+a.address-link {
+  font-weight: 600;
+  font-size: 16px;
+  color: #cb8734;
+  text-decoration: underline;
+}
+
+.consultation {
+  padding: 59px 72px 49px 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.consultation-text {
+  font-weight: 400;
+  font-size: 30px;
+}
+
+.consultation-info {
+  
+}
