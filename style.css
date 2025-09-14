@@ -1,1 +1,93 @@
+.main__title {
+    font-family: 'Gilroy-ExtraBold';
+    font-size: 38px;
+    color: #2B2A28;
+    display: flex;
+    justify-content: center;
+    padding-right: 6px;
+}
 
+.div__individually {
+    font-family: 'Gilroy-Regular';
+    font-size: 18px;
+    color: #2B2A28;
+    line-height: 30px;
+    padding-top: 8px;
+    padding-bottom: 26px;
+    padding-right: 55px;
+}
+
+.main__buttons {
+    display: flex;
+    align-items: center;
+    background-color: #FFFBF6;
+}
+
+.div__catalog {
+    border: 2px solid #CB8734;
+    background: linear-gradient(#F39C32, #CB8734);
+    color: #FFFFFF;
+    width: 280px;
+    height: 66px;
+    font-family: 'Gilroy-Bold';
+    font-size: 16px;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.div__right__arrow {
+    border: 2px solid #CB8734;
+    background-color: #FFFBF6;
+    color: #CB8734;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin-left: 44px;
+    margin-right: 12px;
+}
+
+.div__bathhouse {
+    font-family: 'Gilroy-SemiBold';
+    font-size: 16px;
+    color: #CB8734;
+
+}
+
+.main-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFFBF6;
+    height: 970px;
+}
+
+.div__choose {
+    font-family: 'Gilroy-Bold';
+    font-size: 36px;
+    column-rule: #2B2A28;
+    line-height: 58px;
+
+}
+
+.div__stages-title {
+    font-family: 'Gilroy-Bold';
+    font-size: 15px;
+    line-height: 30px;
+    color: #2B2A28;
+}
+
+.div__card-description {
+    font-family: 'Gilroy-Light';
+    font-size: 15px;
+    color: #2B2A28;
+}
+
+.div__stages {
+    padding-bottom: 20.91px;
+}
+
+.advantages-cards {
+    display: flex;
+}
