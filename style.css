@@ -68,7 +68,6 @@
     font-size: 36px;
     column-rule: #2B2A28;
     line-height: 58px;
-
 }
 
 .div__stages-title {
@@ -88,6 +87,13 @@
     padding-bottom: 20.91px;
 }
 
-.advantages-cards {
+.advantages-wrapper {
     display: flex;
+    gap: 40px;
+}
+
+.main__absolute {
+    border: 2px solid #FFFFFF;
+    width: 1170px;
+    height: 400px;
 }
