@@ -1,0 +1,25 @@
+.single {
+  display: flex;
+}
+
+.telega {
+  display: flex;
+  flex-direction: column;
+}
+
+.outline {
+  display: flex;
+}
+
+.text {
+  display: flex;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.takar {
+}
