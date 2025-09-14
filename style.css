@@ -68,6 +68,9 @@
     font-size: 36px;
     column-rule: #2B2A28;
     line-height: 58px;
+    padding-bottom: 33px;
+    padding-top: 56px;
+    padding-left: 61px;
 }
 
 .div__stages-title {
@@ -75,6 +78,7 @@
     font-size: 15px;
     line-height: 30px;
     color: #2B2A28;
+    padding-bottom: 14px;
 }
 
 .div__card-description {
@@ -94,6 +98,14 @@
 
 .main__absolute {
     border: 2px solid #FFFFFF;
+    background-color: #FFFFFF;
     width: 1170px;
     height: 400px;
+    position: absolute;
+    left: 180px;
+    top: 850px;
+}
+
+.advantages-cards {
+    padding-left: 60px;
 }
