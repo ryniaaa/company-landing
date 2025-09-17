@@ -1,0 +1,150 @@
+body {
+  color: #ffffff;
+}
+
+.container {
+  padding: 0 230px;
+}
+body {
+  color: #ffffff;
+}
+
+.variant {
+  color: rgba(130, 130, 130, 1);
+  font-family: Gilroy;
+}
+
+.my-nekompaniay {
+  font-family: Gilroy;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 17px;
+  color: rgba(130, 130, 130, 1);
+  margin-top: 57px;
+}
+
+.o-kompaniay {
+  font-family: Gilroy;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 58px;
+  color: black;
+  margin-top: 30px;
+}
+
+.boss-nazad {
+  display: flex;
+  justify-content: space-between;
+}
+
+.vernutsa {
+  color: rgba(203, 135, 52, 1);
+  font-family: Gilroy;
+  font-weight: 600;
+  font-size: 16px;
+  margin-top: 55px;
+}
+
+.Porta {
+  font-family: Gilroy;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 30px;
+  margin-top: 15px;
+}
+
+.lorem {
+  font-family: Gilroy;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 30px;
+  margin-top: 79px;
+}
+
+.boss {
+  display: flex;
+  justify-content: space-between;
+}
+
+. {
+}
+
+.bomz {
+  transform: translateY(-480px);
+  position: absolute;
+}
+
+.boss-bomz {
+  display: flex;
+  justify-content: center;
+}
+
+.paru-slov {
+  background: rgba(255, 255, 255, 1);
+  width: 570px;
+  height: 190px;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+  display: flex;
+  margin-left: 285px;
+  transform: translateY(-97px);
+  border-radius: 8px;
+  position: absolute;
+}
+
+.paragraff {
+  font-family: Gilroy;
+  font-size: 24px;
+  font-weight: 400;
+  color: rgba(43, 42, 40, 1);
+}
+.carefuly {
+  width: 54px;
+  padding-bottom: 50px;
+  margin-left: 43px;
+}
+.lica {
+  font-family: Gilroy;
+  font-weight: 300;
+  font-size: 16px;
+  color: rgba(43, 42, 40, 1);
+  line-height: 26px;
+}
+
+.samogo {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 41px 0 0 22px;
+}
+
+.boss__slov {
+  margin-top: 185px;
+}
+.bos-fig {
+  margin-top: 193px;
+}
+.linne {
+  border: 1px solid rgba(203, 135, 52, 1);
+  width: 270px;
+  margin-top: 29px;
+}
+.goda {
+  color: rgba(203, 135, 52, 1);
+  font-family: Gilroy;
+  font-size: 36px;
+  font-weight: 400px;
+}
+
+.runok {
+  font-family: Gilroy;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 30px;
+  color: rgba(43, 42, 40, 1);
+  margin-top: 18px;
+}
+
+.started {
+  display: flex;
+  gap: 30px;
+}
