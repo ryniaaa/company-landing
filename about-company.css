@@ -1,12 +1,5 @@
-body {
-  color: #ffffff;
-}
-
 .container {
   padding: 0 230px;
-}
-body {
-  color: #ffffff;
 }
 
 .variant {
@@ -64,9 +57,6 @@ body {
 .boss {
   display: flex;
   justify-content: space-between;
-}
-
-. {
 }
 
 .bomz {
@@ -147,4 +137,206 @@ body {
 .started {
   display: flex;
   gap: 30px;
+}
+
+.pereiti {
+  background: rgba(243, 156, 50, 1);
+  width: 280px;
+  height: 66px;
+  border-radius: 4px;
+  color: #ffffff;
+  font-family: Gilroy;
+  font-weight: 700;
+  font-size: 16px;
+  margin-left: 50px;
+}
+
+.katalog-domov {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+.bon {
+  color: rgba(203, 135, 52, 1);
+  font-family: Gilroy;
+  font-weight: 600;
+  font-size: 16px;
+  margin: 25px 0 0 0;
+  margin-left: 12px;
+}
+
+.strelca {
+  margin: 0 0 0 44px;
+}
+
+.nass {
+  background: rgba(255, 255, 255, 1);
+  box-shadow: 0 0 4px rgba(43, 42, 40, 0.08);
+  width: 1170px;
+  height: 400px;
+  margin-top: 292px;
+}
+
+.pochemy {
+  font-family: Gilroy;
+  font-size: 36px;
+  font-weight: 700;
+  color: rgba(43, 42, 40, 1);
+  padding: 56px 0 0 61px;
+}
+
+.dizain {
+  font-family: Gilroy;
+  font-weight: 700;
+  font-size: 15px;
+  color: rgba(43, 42, 40, 1);
+  padding: 20px 0 0 60px;
+}
+.kech {
+  padding: 33px 0 0 60px;
+}
+.analogov {
+  color: rgba(43, 42, 40, 1);
+  font-weight: 300;
+  font-size: 15px;
+  font-family: Gilroy;
+  line-height: 30px;
+
+  padding: 10px 0 0 60px;
+}
+
+.witch {
+  display: flex;
+}
+
+.picaa {
+  margin-left: 15px;
+}
+
+.dannue {
+  background: rgba(255, 251, 246, 1);
+  display: flex;
+  margin-top: 60px;
+}
+
+.filee {
+  background: rgba(203, 135, 52, 1);
+  width: 200px;
+  height: 58px;
+  color: rgba(255, 255, 255, 1);
+  font-weight: 700;
+  font-family: Gilroy;
+  font-size: 16px;
+  margin: 24px 0 0 0;
+}
+
+.sarii {
+  border: 2px solid rgba(231, 216, 199, 1);
+  display: flex;
+  width: 440px;
+  background-color: #ffffff;
+  gap: 15px;
+  margin: 24px 0 0 80px;
+}
+
+.saved {
+  display: flex;
+  gap: 15px;
+}
+
+.esli {
+  font-family: Gilroy;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 38px;
+  color: rgba(43, 42, 40, 1);
+  padding: 59px 0 0 80px;
+}
+
+.obrabotka {
+  font-family: Gilroy;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 14px;
+  color: rgba(43, 42, 40, 1);
+  padding: 31px 0 0 80px;
+}
+
+.personalnyi {
+  font-family: Gilroy;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 14px;
+  color: rgba(203, 135, 52, 1);
+}
+
+.edit {
+  padding-left: 40px;
+}
+
+.foto {
+  font-family: Gilroy;
+  font-weight: 700;
+  font-size: 36px;
+  color: rgba(43, 42, 40, 1);
+  margin-top: 290px;
+}
+
+.img-bosic {
+  display: flex;
+  gap: 30px;
+  margin-top: 37px;
+}
+
+.statiya {
+  margin-top: 145px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.fotoo {
+  font-family: Gilroy;
+  font-weight: 700;
+  font-size: 36px;
+  color: rgba(43, 42, 40, 1);
+}
+
+.voznikaet {
+  font-family: Gilroy;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  color: rgba(43, 42, 40, 1);
+  margin-top: 27px;
+}
+.pirobresti {
+  font-family: Gilroy;
+  font-weight: 00;
+  font-size: 15px;
+  line-height: 30px;
+  color: rgba(43, 42, 40, 1);
+  margin-top: 15px;
+}
+
+.arhitektura {
+  margin-top: 40px;
+}
+
+.gotovyi {
+  display: flex;
+  gap: 30px;
+}
+
+.btnn {
+  background: rgba(203, 135, 52, 1);
+  width: 114px;
+  height: 34px;
+  color: #ffffff;
+  font-family: Gilroy;
+  font-weight: 700;
+  font-size: 11px;
+  transform: translateY(-245px);
+  margin-left: 20px;
+  border-radius: 4px;
 }
