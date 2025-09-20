@@ -286,7 +286,7 @@ a.address-link {
 .company-details {
   font-size: 30px;
   font-weight: 700;
-  padding-left: 375px;
+  :375px ;
 }
 
 .company-group {
@@ -345,4 +345,3 @@ a.address-link {
   font-size: 15px;
   font-family: Gilroy;
 }
-

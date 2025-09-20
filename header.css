@@ -32,7 +32,6 @@
 .header {
   display: flex;
   align-items: center;
-  padding-left: 375px;
 }
 
 .takar {
@@ -112,7 +111,6 @@
 .class {
   display: flex;
   font-family: Gilroy;
-  padding-left: 375px;
 }
 
 .rabota {
