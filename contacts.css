@@ -1,7 +1,6 @@
 .tokar-box {
   display: flex;
-  flex-direction: row;
-  font-family: Gilroy;
+  font-family: "Gilroy";
 }
 
 .wrapper {
@@ -96,7 +95,6 @@ a.tokar-call {
 .tokar-img {
   display: flex;
   justify-content: flex-end;
-  margin: auto;
 }
 
 .tokar-img2 {
@@ -144,7 +142,6 @@ a.tokar-call {
 }
 
 .tokar-images {
-  margin-top: -70px;
 }
 
 a.tokar-call5 {
@@ -180,18 +177,170 @@ a.address-link {
   text-decoration: underline;
 }
 
+.tokar-card-row {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding-top: 20px;
+  justify-content: space-between;
+}
+
+.flex-between {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
 .consultation {
   padding: 59px 72px 49px 80px;
   display: flex;
   flex-direction: column;
   justify-content: center;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  width: 564px;
+  height: 499px;
+  margin-left: 37px;
+  border-top-right-radius: 40px;
+  position: relative;
+  z-index: 1;
 }
 
 .consultation-text {
   font-weight: 400;
   font-size: 30px;
+  margin-bottom: 24px;
 }
 
-.consultation-info {
-  
+.consultation-input {
+  width: 420px;
+  height: 58px;
+  border: 2px solid #e7d8c7;
+  border-radius: 2px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 10px;
+  padding: 22px 258px 19px 81px;
 }
+
+.consultation-input2 {
+  width: 420px;
+  height: 58px;
+  border: 2px solid #e7d8c7;
+  border-radius: 2px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 22px 258px 19px 81px;
+  margin-bottom: 20px;
+}
+
+.btn {
+  background-color: #cb8734;
+  padding-top: 26px;
+  padding-bottom: 20px;
+  width: 420px;
+  height: 66px;
+  color: #fff;
+  margin-bottom: 30px;
+}
+
+.consultation-link {
+  color: #cb8734;
+}
+
+.imgg {
+  display: block;
+  width: 100%;
+  max-width: 564px;
+  height: auto;
+  margin-top: 40px; /* расстояние от карточки */
+  margin-left: 37px;
+  margin-right: auto;
+}
+
+.consultation-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.company-fon {
+  background-color: #fffbf6;
+  width: auto;
+  height: 911px;
+}
+
+.company-card {
+  width: 370px;
+  height: 159px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 32px;
+  gap: 20px;
+}
+
+.company-details {
+  font-size: 30px;
+  font-weight: 700;
+  padding-left: 375px;
+}
+
+.company-group {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+  padding: 145px 375px;
+}
+
+.company-img {
+  width: 62px;
+  height: 62px;
+}
+
+.company-text {
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.company-spn {
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.company-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.last {
+  padding: 145px 374px;
+}
+
+.last-text {
+  margin-bottom: 40px;
+  font-weight: 700;
+  font-size: 36px;
+}
+
+.last-cards {
+  display: flex;
+  gap: 30px;
+}
+
+.last-content {
+  font-weight: 400;
+  font-size: 20px;
+  margin-top: 27px;
+  margin-bottom: 15px;
+}
+
+.last-spn {
+  font-weight: 300;
+  font-size: 15px;
+  font-family: Gilroy;
+}
+

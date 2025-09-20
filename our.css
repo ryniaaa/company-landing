@@ -1,0 +1,101 @@
+.wrapper {
+  padding-left: 365px;
+}
+
+.button {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: flex;
+}
+
+.button-img {
+  border: 2px solid #cb8734;
+  border-radius: 50%;
+  padding: 10px 12px;
+}
+
+.contacts {
+  margin-top: 30px;
+  font-size: 36px;
+  font-weight: 700;
+  margin-bottom: 26px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.card {
+  width: 370px;
+  height: 430px;
+  border-top-right-radius: 40px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.card2 {
+  width: 400px;
+  height: 460px;
+  border-top-right-radius: 40px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.content-img {
+  margin-left: 6px;
+}
+
+.content-icon {
+  width: 32px;
+  height: 32px;
+}
+
+.content-text {
+  font-weight: 400;
+  font-size: 20px;
+  padding-top: 31px;
+  padding-left: 16px;
+}
+
+.button-group {
+  padding-left: 16px;
+  padding-top: 30px;
+  display: flex;
+  gap: 20px;
+}
+
+.btn {
+  width: 200px;
+  height: 50px;
+  border-radius: 4px;
+  color: #fff;
+  font-weight: 600;
+  font-size: 14px;
+  background-color: #f39c32;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.card-group {
+  display: flex;
+  gap: 15px;
+}
+
+.card-group2 {
+  display: flex;
+  gap: 15px;
+}
+
+.card5 {
+  width: 765px;
+  height: 430px;
+  border-top-right-radius: 40px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.content-img5 {
+}
