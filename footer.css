@@ -1,0 +1,110 @@
+.footer-box {
+  background-color: #fffbf6;
+  width: auto;
+  height: 590px;
+  padding-left: 373px;
+}
+
+.footer-content {
+  display: flex;
+  padding-top: 89px;
+}
+
+.footer-btn {
+  width: 160px;
+  height: 46px;
+  border-radius: 8px;
+  background-color: #f39c32;
+  color: #fff;
+  margin-top: -18px;
+}
+
+.footer-block {
+  display: flex;
+  gap: 54px;
+  color: #2b2a28;
+}
+
+.footer-text {
+  gap: 15px;
+  display: flex;
+  flex-direction: column;
+  font-weight: 300;
+  font-size: 14px;
+}
+
+.footer-text2 {
+  gap: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-text3 {
+  gap: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-logo {
+  display: flex;
+  gap: 28px;
+}
+
+.footer-img {
+  width: 238px;
+  height: 31px;
+  margin-left: 170px;
+}
+
+.footer-massanger {
+  display: flex;
+  flex-direction: column;
+  margin-left: 170px;
+}
+
+.massanger-img {
+  width: 26px;
+  height: 26px;
+  margin-top: 10px;
+}
+
+.footer-group {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.footer-spn {
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.footer-numbers {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  margin-top: 43px;
+}
+
+.card {
+  display: flex;
+  gap: 120px;
+  width: 620px;
+  height: 72px;
+  border-radius: 8px;
+  background-color: #3d1e19;
+  padding: 25px 62px;
+  color: #fff;
+  margin-right: 59px;
+  font-weight: 700;
+  font-size: 16px;
+  margin-bottom: 39px;
+}
+
+.card2 {
+  display: flex;
+  gap: 56px;
+  padding: 25px 62px;
+  font-weight: 700;
+  font-size: 16px;
+}
