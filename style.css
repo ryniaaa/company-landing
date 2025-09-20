@@ -1,5 +1,6 @@
 .main__title {
-    font-family: 'Gilroy-ExtraBold';
+    font-family: 'Gilroy';
+    font-weight: 800;
     font-size: 38px;
     color: #2B2A28;
     display: flex;
@@ -8,7 +9,8 @@
 }
 
 .div__individually {
-    font-family: 'Gilroy-Regular';
+    font-family: 'Gilroy';
+    font-weight: 400;
     font-size: 18px;
     color: #2B2A28;
     line-height: 30px;
@@ -29,7 +31,8 @@
     color: #FFFFFF;
     width: 280px;
     height: 66px;
-    font-family: 'Gilroy-Bold';
+    font-family: 'Gilroy';
+    font-weight: 700;
     font-size: 16px;
     border-radius: 2px;
     display: flex;
@@ -49,7 +52,8 @@
 }
 
 .div__bathhouse {
-    font-family: 'Gilroy-SemiBold';
+    font-family: 'Gilroy';
+    font-weight: 600;
     font-size: 16px;
     color: #CB8734;
 
@@ -64,7 +68,8 @@
 }
 
 .div__choose {
-    font-family: 'Gilroy-Bold';
+    font-family: 'Gilroy';
+    font-weight: 700;
     font-size: 36px;
     column-rule: #2B2A28;
     line-height: 58px;
@@ -74,7 +79,8 @@
 }
 
 .div__stages-title {
-    font-family: 'Gilroy-Bold';
+    font-family: 'Gilroy';
+    font-weight: 700;
     font-size: 15px;
     line-height: 30px;
     color: #2B2A28;
@@ -82,7 +88,8 @@
 }
 
 .div__card-description {
-    font-family: 'Gilroy-Light';
+    font-family: 'Gilroy';
+    font-weight: 300;
     font-size: 15px;
     color: #2B2A28;
 }
@@ -97,15 +104,534 @@
 }
 
 .main__absolute {
-    border: 2px solid #FFFFFF;
+    border: 2px solid #2B2A2814;
     background-color: #FFFFFF;
     width: 1170px;
     height: 400px;
-    position: absolute;
-    left: 180px;
-    top: 850px;
+    transform: translate(250px, -50%);
+    border-radius: 8px;
 }
 
 .advantages-cards {
     padding-left: 60px;
+}
+
+.main__dashed-line {
+    border: 1px dashed #2B2A28;
+    width: 100vw;
+    position: relative;
+    transform: translate(0px, -180px);
+}
+
+.div__houses-title {
+    font-family: Gilroy;
+    font-weight: 700;
+    font-size: 36px;
+    padding-top: 135px;
+    padding-left: 373px;
+    padding-bottom: 21px;
+}
+
+.luxery-home {
+    border: 2px solid #2B2A2814;
+    background-color: #FFFFFF;
+    width: 370px;
+    height: 460px;
+    border-top-right-radius: 40px;
+}
+
+.div__residential-building {
+    font-family: Gilroy;
+    font-weight: 400;
+    font-size: 30px;
+    padding: 36px 0px 9px 50px;
+}
+
+.div__house-description {
+    font-family: Gilroy;
+    font-weight: 300;
+    font-size: 15px;
+    padding-left: 50px;
+    padding-bottom: 14px;
+    letter-spacing: 0%;
+    line-height: 28px;
+    color: #2B2A28;
+}
+
+.main__house-subgroup {
+    display: flex;
+    gap: 12px;
+    background-color: #FFFFFF;
+}
+
+.div__subgroup-arrow {
+    border: 2px solid #CB8734;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin-left: 50px;
+}
+
+.acquainte-projects {
+    display: flex;
+    align-items: center;
+    font-family: gilroy;
+    font-weight: 600;
+    color: #CB8734;
+    font-size: 15px;
+}
+
+.main__houses-group {
+    display: flex;
+    padding-left: 375px;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+
+.garden-card {
+    width: 770px;
+    height: 320px;
+}
+
+.garden-card {
+    display: block;
+    display: flex;
+    align-items: center;
+    background: #fff;
+    border-top-right-radius: 40px;
+    width: 770px;
+    height: 320px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    font-family: gilroy;
+}
+
+.garden-card__content {
+    padding: 40px;
+}
+
+.garden-card__title {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.garden-card__description {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.garden-card__button {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    color: #d9732f;
+    font-weight: 500;
+}
+
+.garden-card__icon {
+    border: 2px solid #CB8734;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
+
+.main__background-img {
+    padding-left: 674px;
+    bottom: 840px;
+    z-index: -1;
+    position: relative;
+}
+
+.border-buildings {
+    border: 2px solid #FFFFFF;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    width: 570px;
+    height: auto;
+    font-family: gilroy;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 30px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    position: relative;
+
+}
+
+
+.div__subgroup-title {
+    color: #2B2A28;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    margin: 0 0 20px 0;
+}
+
+
+.div__subgroup-info {
+    line-height: 28px;
+    font-size: 16px;
+    color: #444;
+    margin: 0;
+}
+
+
+
+.buildings-stages {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 32px;
+}
+
+
+.double-group {
+    display: flex;
+    gap: 30px;
+    margin-bottom: 32px;
+}
+
+
+.div__buildings-name {
+    color: #2B2A28;
+    font-weight: 700;
+    font-size: 36px;
+    font-family: gilroy;
+    padding-bottom: 68px;
+    padding-left: 190px;
+}
+
+
+.main__buildings-title {
+    background-color: #FFFBF6;
+    padding: 60px 0;
+}
+
+.border-buildings img {
+    position: absolute;
+    width: 200px;
+    height: auto;
+}
+
+.absolute-img-1 {
+    position: relative;
+    bottom: 220px;
+    left: 360px;
+    width: 200px;
+    height: auto;
+}
+
+.absolute-img-2 {
+    position: relative;
+    bottom: 200px;
+    left: 360px;
+    width: 200px;
+    height: auto;
+}
+
+.absolute-img-3 {
+    position: relative;
+    bottom: 220px;
+    left: 360px;
+    width: 200px;
+    height: auto;
+}
+
+.absolute-img-4 {
+    position: relative;
+    bottom: 180px;
+    left: 360px;
+    width: 200px;
+    height: auto;
+}
+
+.workplace-machine {
+    display: flex;
+    justify-content: center;
+}
+
+.main__workplace-buttons {
+    display: flex;
+
+}
+
+.div__workplace-catalog {
+    font-family: Gilroy;
+    font-weight: 700;
+    font-size: 16px;
+    border: 2px solid #F39C32;
+    background: linear-gradient(#F39C32, #CB8734);
+    width: 280px;
+    height: 66px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFFFFF;
+    border-radius: 4px;
+    margin-left: 190px;
+    margin-top: 40px;
+}
+
+.div__workplace-arrow {
+    border: 2px solid #CB8734;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin: 58px 12px 0px 44px;
+}
+
+.div__catalog-button {
+    color: #CB8734;
+    font-family: gilroy;
+    font-weight: 600;
+    font-size: 16px;
+    padding-top: 67px;
+}
+
+.main__color-group {
+    background-color: #FFFBF6;
+}
+
+.main__first-main-button {
+    background-color: #FFFBF6;
+}
+
+.bomz {
+    transform: translateY(-480px);
+    position: absolute;
+}
+
+.boss-bomz {
+    display: flex;
+    justify-content: center;
+}
+
+.paru-slov {
+    background: rgba(255, 255, 255, 1);
+    width: 570px;
+    height: 190px;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    margin-left: 285px;
+    transform: translateY(-97px);
+    border-radius: 8px;
+    position: absolute;
+}
+
+.paragraff {
+    font-family: Gilroy;
+    font-size: 24px;
+    font-weight: 400;
+    color: rgba(43, 42, 40, 1);
+}
+
+.carefuly {
+    width: 54px;
+    padding-bottom: 50px;
+    margin-left: 43px;
+}
+
+.lica {
+    font-family: Gilroy;
+    font-weight: 300;
+    font-size: 16px;
+    color: rgba(43, 42, 40, 1);
+    line-height: 26px;
+}
+
+.samogo {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    padding: 41px 0 0 22px;
+}
+
+.boss__slov {
+    margin-top: 185px;
+}
+
+.bos-fig {
+    margin-top: 193px;
+}
+
+.linne {
+    border: 1px solid rgba(203, 135, 52, 1);
+    width: 270px;
+    margin-top: 29px;
+}
+
+.goda {
+    color: rgba(203, 135, 52, 1);
+    font-family: Gilroy;
+    font-size: 36px;
+    font-weight: 400px;
+}
+
+.runok {
+    font-family: Gilroy;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 30px;
+    color: rgba(43, 42, 40, 1);
+    margin-top: 18px;
+}
+
+.started {
+    display: flex;
+    gap: 30px;
+}
+
+.pereiti {
+    background: rgba(243, 156, 50, 1);
+    width: 280px;
+    height: 66px;
+    border-radius: 4px;
+    color: #ffffff;
+    font-family: Gilroy;
+    font-weight: 700;
+    font-size: 16px;
+    margin-left: 50px;
+}
+
+.katalog-domov {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.bon {
+    color: rgba(203, 135, 52, 1);
+    font-family: Gilroy;
+    font-weight: 600;
+    font-size: 16px;
+    margin: 25px 0 0 0;
+    margin-left: 12px;
+}
+
+.strelca {
+    margin: 0 0 0 44px;
+}
+
+
+.groups-types {
+    border: 2px solid #FFFFFF;
+    border-top-right-radius: 40px;
+    width: 370px;
+    height: 650px;
+    box-shadow: 0px 0px 30px #2B2A2814;
+    background-color: #FFFFFF;
+}
+
+.main__kinds {
+    background-color: #FFFBF6;
+}
+
+.divide {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.div__example-house {
+    width: 360px;
+    height: 280px;
+}
+
+.div__kinds-title {
+    font-family: gilroy;
+    font-size: 36px;
+    font-weight: 700;
+    padding: 145px 0px 40px 180px;
+}
+
+.type-name {
+    font-family: gilroy;
+    line-height: 30px;
+    font-size: 30px;
+    padding: 36px 0px 13px 40px;
+}
+
+.ul__parallel {
+    font-family: gilroy;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 22px;
+    padding-left: 60px;
+    letter-spacing: 0%;
+    gap: 24px;
+}
+
+.div__first-ul li::before {
+    content: '›';
+    display: inline-block;
+    width: 5px;
+    height: 35px;
+    color: #c57c2d;
+    font-size: 18px;
+    margin-right: 8px;
+}
+
+.div__luxury-title {
+    display: inline-block;
+    font-family: gilroy;
+    font-weight: 700;
+    font-size: 36px;
+    padding-top: 145px;
+    padding-left: 175px;
+    padding-bottom: 40px;
+}
+
+.div__arrows {
+    padding-top: 171px;
+    padding-left: 624px;
+    background-color: #FFFFFF;
+}
+
+.luxury-houses-group {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.div__boastfulness {
+    font-family: gilroy;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    padding-top: 27px;
+    padding-bottom: 15px;
+}
+
+.luxury-description {
+    font-family: gilroy;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 30px;
+}
+
+.main__svo-group {
+    display: flex;
+}
+
+.div__svo-description {
+    font-family: gilroy;
+    font-weight: 700;
+    font-size: 36px;
+    padding: 182px 135px 12px 200px;
+}
+
+.svo-description {
+    font-family: gilroy;
+    font-weight: 300;
+    font-size: 15px;
+    padding-left: 200px;
+    line-height: 30px;
+}
+
+.svo-home {
+    padding-top: 142px;
 }
