@@ -3,7 +3,8 @@ body {
 }
 
 .container {
-  padding: 0 230px;
+  width: fit-content;
+  margin: 0 auto;
 }
 
 .variant {
