@@ -152,7 +152,15 @@ body {
   margin-left: 21px;
 }
 
-.metr {
+.gazoblok {
+  box-shadow: 0 0 4px rgba(43, 42, 40, 0.08);
+  background: rgba(255, 255, 255, 1);
+  width: 1170px;
+  height: 480px;
+  border-radius: 8px;
+}
+
+.stroenie {
   font-family: Gilroy;
   font-weight: 700;
   font-size: 36px;
@@ -161,174 +169,115 @@ body {
   padding: 40px 0 0 60px;
 }
 
-.liniya {
-  border: 1px solid rgba(231, 216, 199, 1);
-  width: 413px;
-  margin: 31px 0 0 60px;
-}
-.rezka {
-  background: #fff;
-  box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
-  width: 1170px;
-  padding: 20px;
-}
-
-.stule {
+.sroci {
   display: flex;
-
-  align-items: flex-start;
 }
-
-.liniya {
-  border: 1px solid rgba(231, 216, 199, 1);
-  width: 413px;
-  margin: 31px 0 0 60px;
-}
-
-.tube,
-.tubee {
-  display: flex;
-  align-items: center;
-  gap: 20px;
-}
-
-.lean {
-  margin: 23px 0 0 62px;
-}
-.leann {
-  margin: 23px 0 0 52px;
-}
-
-.metroo,
-.metro {
-  font-weight: 400;
+.Barcelona {
   font-family: Gilroy;
-  font-size: 24px;
+  font-size: 30px;
+  font-weight: 400;
   line-height: 36px;
   color: rgba(43, 42, 40, 1);
-  margin-top: 40px;
 }
 
-.dom-img {
-  width: 970px;
+.kirpich {
+  font-family: Gilroy;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 22px;
+  color: rgba(43, 42, 40, 1);
 }
-.okna {
+.dom-iz {
+  font-family: Gilroy;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 22px;
+  color: black;
+}
+.domaa {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  gap: 25px;
-  white-space: nowrap;
+  gap: 12px;
+  padding: 31px 0 0 50px;
 }
 
-.img-bylid {
-  max-width: 350px;
-  border-radius: 12px;
+.villa {
+  padding: 21px 0 0 60px;
 }
 
-.stil {
+.reviev {
   display: flex;
-  margin-left: 30px;
 }
-.krovla {
-  margin-left: 100px;
+
+.imges-sroci {
+  padding: 0 10px 0 0;
+  transform: translateY(-10px);
 }
-.fasod {
+
+.images-sroci {
+  padding: 0 11px 0 10px;
+  transform: translateY(-20px);
+  padding-left: 70px;
+}
+
+.linIya {
+  border: 1px solid rgba(231, 216, 199, 1);
+  width: 102.00000000000009px;
+  transform: rotate(90deg);
+  margin: 100px 0 0 10px;
+}
+
+.raides {
+  display: flex;
+}
+
+.emmet {
+  display: flex;
+}
+
+.pravo {
+  width: 71px;
+  margin: 56px 0 0 0;
+}
+
+.groyp {
+  margin: 73px 0 0 25px;
+  font-family: Gilroy;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 36px;
+  color: rgba(43, 42, 40, 1);
+}
+
+.assets {
+  display: flex;
+  gap: 75px;
+}
+
+.use {
+  padding: 0 0 0 80px;
+}
+
+.gazoblok {
+  margin-top: 100px;
+}
+
+.boss__img {
   display: flex;
   gap: 40px;
-}
-.fasad {
-  font-family: Gilroy;
-  font-size: 16px;
-  line-height: 22px;
-  color: rgba(43, 42, 40, 1);
-  margin-bottom: 10px;
-}
-
-.rabotaa,
-.krovla {
-  display: flex;
-  flex-direction: column;
-}
-
-.private {
-  display: flex;
-  flex-direction: column;
-  max-width: 220px;
-  white-space: nowrap;
-}
-
-.barca {
-  font-family: Gilroy;
-  font-weight: 400;
-  font-size: 30px;
-  color: rgba(43, 42, 40, 1);
-  margin-bottom: 15px;
-}
-
-.sroc {
-  font-weight: 300;
-  font-family: Gilroy;
-  font-size: 16px;
-  line-height: 22px;
-  margin-bottom: 12px;
-}
-
-.view {
-  font-weight: 700;
-  font-family: Gilroy;
-  font-size: 16px;
-  line-height: 22px;
-  color: rgba(43, 42, 40, 1);
-}
-
-.img-bylid {
-  margin-right: 100px;
-}
-
-.pesok {
-  font-family: Gilroy;
-  font-size: 36px;
-  font-weight: 700;
-  line-height: 58px;
-  color: rgba(43, 42, 40, 1);
-  margin-top: 144px;
-}
-
-.truba,
-.truba2 {
   margin-top: 31px;
 }
 
-.undo {
+.boss-planirovkaa {
   font-family: Gilroy;
-  font-size: 36px;
   font-weight: 700;
+  font-size: 36px;
   line-height: 58px;
-  color: rgba(43, 42, 40, 1);
-  margin-top: 144px;
+  color: black;
 }
 
-.prettier {
-  font-family: Gilroy;
-  font-size: 36px;
-  font-weight: 700;
-  line-height: 58px;
-  color: rgba(43, 42, 40, 1);
-  margin-top: 144px;
-}
-
-.otdelka {
-  font-family: Gilroy;
-  font-size: 36px;
-  font-weight: 700;
-  line-height: 58px;
-  color: rgba(43, 42, 40, 1);
-  margin-top: 144px;
-}
-
-.icona {
-  display: flex;
-  gap: 40px;
+.this {
+  margin-top: 100px;
 }
 
 .dannue {
@@ -396,6 +345,7 @@ body {
   font-family: Gilroy;
   font-size: 36px;
   font-weight: 700;
+  white-space: nowrap;
   line-height: 58px;
   color: rgba(43, 42, 40, 1);
   margin-top: 145px;
