@@ -1,8 +1,13 @@
-.footer-box {
+.footer {
   background-color: #fffbf6;
-  width: auto;
-  height: 590px;
-  padding-left: 373px;
+}
+
+.footer-box {
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  
 }
 
 .footer-content {
